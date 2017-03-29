@@ -1,0 +1,20 @@
+C:\Users\Tesla\Desktop\ISA\ISA Research\Questioner\Questioner\bin\Questioner.dll
+C:\Users\Tesla\Desktop\ISA\ISA Research\Questioner\Questioner\bin\Questioner.pdb
+C:\Users\Tesla\Desktop\ISA\ISA Research\Questioner\Questioner\obj\Debug\Questioner.dll
+C:\Users\Tesla\Desktop\ISA\ISA Research\Questioner\Questioner\obj\Debug\Questioner.pdb
+C:\Users\Tesla\Desktop\Questioner\Questioner\bin\Questioner.dll
+C:\Users\Tesla\Desktop\Questioner\Questioner\bin\Questioner.pdb
+C:\Users\Tesla\Desktop\Questioner\Questioner\obj\Debug\Questioner.dll
+C:\Users\Tesla\Desktop\Questioner\Questioner\obj\Debug\Questioner.pdb
+C:\Users\dbomugisha\Documents\Questioner\Questioner\bin\Questioner.dll.config
+C:\Users\dbomugisha\Documents\Questioner\Questioner\bin\Questioner.dll
+C:\Users\dbomugisha\Documents\Questioner\Questioner\bin\Questioner.pdb
+C:\Users\dbomugisha\Documents\Questioner\Questioner\obj\Debug\Questioner.csprojResolveAssemblyReference.cache
+C:\Users\dbomugisha\Documents\Questioner\Questioner\obj\Debug\Questioner.dll
+C:\Users\dbomugisha\Documents\Questioner\Questioner\obj\Debug\Questioner.pdb
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.dll.config
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.dll
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.pdb
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Debug\Questioner.csprojResolveAssemblyReference.cache
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Debug\Questioner.dll
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Debug\Questioner.pdb

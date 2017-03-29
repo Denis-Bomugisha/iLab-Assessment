@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Tesla\Documents\DSSSLab\DSSSiLab" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/17/2016 11:35:16" />
+    <file relUrl="start.aspx" publishTime="04/18/2016 09:51:05" />
+    <file relUrl="ReportTemp.aspx" publishTime="04/11/2016 12:53:09" />
+    <file relUrl="Answer.aspx" publishTime="04/13/2016 23:31:37" />
+    <file relUrl="bin/Questioner.pdb" publishTime="04/18/2016 09:52:42" />
+    <file relUrl="FinalPage.aspx" publishTime="03/17/2016 01:10:41" />
+    <file relUrl="App_Data/Questions_log.ldf" publishTime="04/18/2016 10:21:23" />
+    <file relUrl="Test.aspx" publishTime="03/28/2016 08:56:23" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/11/2016 06:53:59" />
+    <file relUrl="Questions.aspx" publishTime="04/13/2016 17:56:18" />
+    <file relUrl="bin/Questioner.dll" publishTime="04/18/2016 09:52:43" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/11/2016 06:53:59" />
+    <file relUrl="App_Data/Questions.mdf" publishTime="04/18/2016 10:21:23" />
+    <file relUrl="Default.aspx" publishTime="04/18/2016 09:54:31" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/11/2016 06:53:59" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,6 @@
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.dll.config
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.dll
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\bin\Questioner.pdb
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Release\Questioner.csprojResolveAssemblyReference.cache
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Release\Questioner.dll
+C:\Users\dbomugisha\Source\Repos\Assessment-Orig\Questioner\obj\Release\Questioner.pdb

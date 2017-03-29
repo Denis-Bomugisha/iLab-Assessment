@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2016-04-18T10:21:28.0000000+02:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>C:\Users\dbomugisha\Documents\test site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Answer.aspx">
+      <publishTime>04/13/2016 23:31:38</publishTime>
+    </File>
+    <File Include="App_Data/Questions.mdf">
+      <publishTime>10/13/2016 15:28:58</publishTime>
+    </File>
+    <File Include="App_Data/Questions_log.ldf">
+      <publishTime>10/13/2016 15:28:59</publishTime>
+    </File>
+    <File Include="bin/Questioner.dll">
+      <publishTime>10/13/2016 15:29:53</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/18/2016 09:54:32</publishTime>
+    </File>
+    <File Include="FinalPage.aspx">
+      <publishTime>03/17/2016 01:10:42</publishTime>
+    </File>
+    <File Include="Questions.aspx">
+      <publishTime>04/13/2016 17:56:20</publishTime>
+    </File>
+    <File Include="ReportTemp.aspx">
+      <publishTime>04/11/2016 12:53:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>03/11/2016 06:54:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>03/11/2016 06:54:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>03/11/2016 06:54:00</publishTime>
+    </File>
+    <File Include="start.aspx">
+      <publishTime>04/18/2016 09:51:06</publishTime>
+    </File>
+    <File Include="Test.aspx">
+      <publishTime>03/28/2016 08:56:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/13/2016 15:30:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
